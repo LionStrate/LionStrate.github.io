@@ -1,0 +1,9 @@
+.window{
+
+	--colorA: #ffaa00;
+
+
+
+    background-color: var(--colorA);
+    grid-column: span;
+}
